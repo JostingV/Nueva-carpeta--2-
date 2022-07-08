@@ -8,7 +8,7 @@ int main()
 
     cout<<"digite un numero: "; cin >> numero;   
 
-
+    
  return 0;
 
 }
